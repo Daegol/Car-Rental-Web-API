@@ -1,0 +1,12 @@
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RDLCDesigner.Properties.Resources.resources
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RDLCDesigner.csproj.GenerateResource.cache
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\bin\Debug\RDLCDesigner.exe.config
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\bin\Debug\RDLCDesigner.exe
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\bin\Debug\RDLCDesigner.pdb
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RDLCDesigner.csproj.CoreCompileInputs.cache
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RDLCDesigner.exe
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RDLCDesigner.pdb
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RdlCompile.cache
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RdlCompile.compiled
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\obj\Debug\RDLCDesigner.csproj.AssemblyReference.cache
+D:\Projects\Auto Dabi Car Rental WebAPI\RDLCDesigner\bin\Debug\AutoDabiReport.rdlc
